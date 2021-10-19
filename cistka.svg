@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 646.45 476.62">
+   <defs>
+      <style>.cls-1{fill:#eaf0f4;stroke-width:6px;}.cls-1,.cls-2,.cls-3{stroke:#1d1d1b;}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2{fill:#fcd73d;}.cls-2,.cls-3{stroke-width:7px;}.cls-3{fill:#39f;}.cls-4{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:5px;}.cls-5{fill:#fe6a41;}</style>
+   </defs>
+   <g id="Vrstva_2" data-name="Vrstva 2">
+      <g id="Vrstva_1-2" data-name="Vrstva 1">
+         <rect class="cls-1" x="441.05" y="3" width="60.53" height="470.12" rx="11.59" />
+         <circle class="cls-2" cx="99.54" cy="377.08" r="96.04" />
+         <circle class="cls-3" cx="247.61" cy="377.08" r="96.04" />
+         <circle class="cls-2" cx="391.39" cy="377.08" r="96.04" />
+         <circle class="cls-3" cx="546.91" cy="377.08" r="96.04" />
+         <path class="cls-4" d="M217.19,363l-.09,4.65a38.66,38.66,0,0,0,2.08,14.06,29.86,29.86,0,0,0,7.24,11.39h0c3.32,3.07,8.4,3.32,13,1.07l1.38-1A19.81,19.81,0,0,0,246.6,386a41.06,41.06,0,0,0,4.12-15.2l.72-8.06" />
+         <path class="cls-4" d="M347.63,372.31v4.77a38.75,38.75,0,0,0,2.08,14.07A30,30,0,0,0,357,402.54h0a15.25,15.25,0,0,0,13,1.07l1.38-1a19.71,19.71,0,0,0,5.76-7.09,41.06,41.06,0,0,0,4.12-15.2l.67-7.46" />
+         <path class="cls-4" d="M284.16,386.64c-2,12.52,4.86,19.93,12.15,19.92,13.86,0,14.41-18.42,14.41-18.42" />
+         <ellipse class="cls-5" cx="231.94" cy="417.14" rx="17.95" ry="10.67" />
+         <ellipse class="cls-5" cx="364.78" cy="424.4" rx="17.95" ry="10.67" />
+      </g>
+   </g>
+</svg>
